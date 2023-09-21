@@ -1,0 +1,10 @@
+controller/ShoppingCartServlet.class
+model/Product.class
+controller/DeleteTransaction.class
+model/ShoppingCart.class
+controller/InventoryServlet.class
+model/Inventory.class
+mx/com/ecommerceapp/resources/JavaEE8Resource.class
+controller/DeleteProductServlet.class
+model/Transaction.class
+mx/com/ecommerceapp/JAXRSConfiguration.class
